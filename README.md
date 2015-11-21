@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/duck25/android-repo/issues/1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://cloud.githubusercontent.com/assets/15176222/11316767/51facdf0-8fc9-11e5-8721-ba3a5589a0a8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
